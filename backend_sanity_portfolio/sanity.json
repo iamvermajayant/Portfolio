@@ -7,6 +7,7 @@
     "projectId": "favmqzhw",
     "dataset": "production"
   },
+  "scripts": { "start": "sanity start", "build": "sanity build" },
   "plugins": [
     "@sanity/base",
     "@sanity/default-layout",
